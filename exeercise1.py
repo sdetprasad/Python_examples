@@ -9,7 +9,6 @@ a = input('Enter data : ')
 print(a)
 letters = 0
 digits = 0
-length = len(a)
 for b in a:
     if b.isalpha():
         letters += 1
