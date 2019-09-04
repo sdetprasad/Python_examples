@@ -44,7 +44,7 @@ class Car:
             print('\nInvalid Command')           
 
     def drive_modes(self):
-        print('\nGears : 1,2,3,4,5,Reverse Mode, 8 to Turn OFF')
+        print('\nGears : 1,2,3,4,5,Reverse Mode(6), 8 to Turn OFF')
         
         while True:
             g = int(input('\nGear Input : '))
