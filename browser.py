@@ -1,5 +1,5 @@
 '''
-Given below is a represenatation of of a simple Browser which has three searching options i.e Bing,Ask.com and Flipkart.com.
+Given below is a represenatation of a simple Browser which has three searching options i.e Bing,Ask.com and Flipkart.com.
 It allows user to choose between 3 search engines and input the data that user want to search.
 It displays the search results of the entered user input
 '''
